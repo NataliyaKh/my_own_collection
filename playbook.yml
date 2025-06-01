@@ -4,11 +4,7 @@
   gather_facts: false
   connection: local
   collections:
-<<<<<<< HEAD
-    - my_own_namespace.my_own_collection
-=======
     - my_own_namespace.yandex_cloud_elk
->>>>>>> aa7e1c1 (module)
   vars:
     ansible_python_interpreter: /root/venv_ansible312/bin/python3
   roles:
