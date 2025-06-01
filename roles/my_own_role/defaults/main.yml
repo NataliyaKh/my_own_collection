@@ -1,0 +1,5 @@
+#SPDX-License-Identifier: MIT-0
+---
+# defaults file for roles/my_own_role
+my_own_module_path: /tmp/file.txt
+my_own_module_content: "File created"

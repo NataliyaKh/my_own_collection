@@ -1,0 +1,11 @@
+---
+- name: Use module
+  hosts: localhost
+  gather_facts: false
+  connection: local
+  collections:
+    - my_own_namespace.my_own_collection
+  vars:
+    ansible_python_interpreter: /root/venv_ansible312/bin/python3
+  roles:
+    - my_own_role
