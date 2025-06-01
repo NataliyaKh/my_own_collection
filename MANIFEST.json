@@ -1,0 +1,30 @@
+{
+ "collection_info": {
+  "namespace": "my_own_namespace",
+  "name": "yandex_cloud_elk",
+  "version": "1.0.0",
+  "authors": [
+   "your name <example@domain.com>"
+  ],
+  "readme": "README.md",
+  "tags": [],
+  "description": "your collection description",
+  "license": [
+   "GPL-2.0-or-later"
+  ],
+  "license_file": null,
+  "dependencies": {},
+  "repository": "http://example.com/repository",
+  "documentation": "http://docs.example.com",
+  "homepage": "http://example.com",
+  "issues": "http://example.com/issue/tracker"
+ },
+ "file_manifest_file": {
+  "name": "FILES.json",
+  "ftype": "file",
+  "chksum_type": "sha256",
+  "chksum_sha256": "c846e14d63f351122770e61d6dc2f46f27d4f4df2b850517b3db7806af3da20e",
+  "format": 1
+ },
+ "format": 1
+}
